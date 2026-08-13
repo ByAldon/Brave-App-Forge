@@ -1,0 +1,2 @@
+c16d8026e439dc44c11e3cb57b7651fcd5379842daf2ee1d7992f4e9b6d33225  BraveAppForge.exe
+97d7bb75c383de3e453965850dcb68ed642b26d2ee0a11e2219d71b8e66e17fb  diagnostics/BraveAppForge-Debug.exe
