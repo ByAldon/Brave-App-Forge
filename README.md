@@ -7,7 +7,7 @@ Brave App Forge is a small **portable Windows utility for Brave Browser only**. 
 
 ## Download
 
-<a href="[url](https://github.com/ByAldon/Brave-App-Forge/releases)">Download the application here</a> 
+<a href="https://github.com/ByAldon/Brave-App-Forge/releases">Download the application here</a> 
 
 ---
 
