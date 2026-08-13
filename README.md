@@ -2,6 +2,9 @@
 
 Brave App Forge is a small **portable Windows utility for Brave Browser only**. It creates standalone Brave web-app shortcuts for sites that do not offer their own install button.
 
+<img width="844" height="802" alt="2026-08-13 21_55_29-Brave App Forge 1 1 0" src="https://github.com/user-attachments/assets/e7153b6b-08cb-443c-b9fc-8131a7cc8bab" />
+
+
 For example, enter `twitch` or `https://www.twitch.tv/`, choose an icon, and Brave App Forge creates a Windows shortcut that launches:
 
 ```text
