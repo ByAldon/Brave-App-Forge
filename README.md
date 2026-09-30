@@ -1,3 +1,5 @@
+## This application has been moved to another instance. No new updates will be posted here. Go to: https://github.com/ByAldon/I-am-leaving-github for more information.
+
 # Brave App Forge
 
 Brave App Forge is a small **portable Windows utility for Brave Browser only**. It creates standalone Brave web-app shortcuts for sites that do not offer their own install button.
